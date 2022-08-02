@@ -1,7 +1,7 @@
 ### Hey ! 👋
 
 - 🌱 Started learning Laravel and Manjaro
-- 🔍 Looking to gain experience in a company
+- 🔍 Looking to gain experience with a company
 - 🎮 Highly interested in game dev, might start with PyGame
 
 ## Projects in the works
