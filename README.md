@@ -6,7 +6,7 @@
 
 ## Projects in the works
 
-- Unreleased game lister | :pencil: **Conception phase 95%**
+- Unreleased game lister | :pencil: **Conception done**
 - News app on ecology | :zzz: **To be started**
 - Forum | :stars: **Integration done**
 
