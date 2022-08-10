@@ -6,9 +6,13 @@
 
 ## Projects in the works
 
-- Unreleased game lister | :pencil: **Conception done**
+- Unreleased game lister | :pencil:
+  :heavy_check_mark: Conception
+  :heavy_exclamation_mark: Integration
 - News app on ecology | :zzz: **To be started**
-- Forum | :stars: **Integration done**
+- Forum | :stars:
+  :heavy_check_mark: Conception
+  :heavy_check_mark: Integration
 
 
 <!---
