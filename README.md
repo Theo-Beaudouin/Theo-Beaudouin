@@ -8,7 +8,7 @@
 
 - Unreleased game lister | :pencil:
   <br>:heavy_check_mark: Conception
-  <br>:heavy_exclamation_mark: Integration
+  <br>:heavy_check_mark: Integration
 - News app on ecology | :zzz: **To be started**
 - Forum | :stars:
   <br>:heavy_check_mark: Conception
