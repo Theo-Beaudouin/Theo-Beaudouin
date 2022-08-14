@@ -9,7 +9,9 @@
 - Unreleased game lister | :pencil:
   <br>:heavy_check_mark: Conception
   <br>:heavy_check_mark: Integration
-- News app on ecology | :zzz: **To be started**
+  <br>:heavy_exclamation_mark: Front-end
+- News app on ecology | :newspaper:
+  <br>:zzz: **To be started**
 - Forum | :stars:
   <br>:heavy_check_mark: Conception
   <br>:heavy_check_mark: Integration
