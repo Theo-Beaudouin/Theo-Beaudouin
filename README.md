@@ -12,8 +12,9 @@
   <br>:heavy_exclamation_mark: Front-end
 - News app on ecology | :newspaper:
   <br>:heavy_check_mark: Conception
+  <br>:heavy_check_mark: Back-end
   <br>:heavy_exclamation_mark: Integration
-  <br>:heavy_exclamation_mark: Back-end
+  <br>:heavy_exclamation_mark: Front-end
 - Forum | :stars:
   <br>:heavy_check_mark: Conception
   <br>:heavy_check_mark: Integration
