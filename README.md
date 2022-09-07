@@ -1,6 +1,6 @@
 ### Hey ! 👋
 
-- 🌱 Started learning Laravel and using Arch linux *(dist : Manjaro)*
+- 🌱 Continuing to lear more about Vue.js
 - 🔍 Looking to gain experience in a company
 - 🎮 Highly interested in game dev, might start with PyGame
 
