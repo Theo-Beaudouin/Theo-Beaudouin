@@ -2,7 +2,7 @@
 
 - 🌱 Continuing to learn more about Vue.js
 - 🔍 Looking to gain experience in a company
-- 🎮 Highly interested in game dev, might start with PyGame
+- 🎮 Web dev first, game dev next (Pygame or Godot for a start)
 
 ## Projects in the works
 
@@ -13,8 +13,8 @@
 - News app on ecology | :newspaper:
   <br>:heavy_check_mark: Conception
   <br>:heavy_check_mark: Back-end
-  <br>:heavy_exclamation_mark: Integration
-  <br>:heavy_exclamation_mark: Front-end
+  <br>:heavy_check_mark: Integration
+  <br>:large_blue_diamond: Front-end
 - Forum | :stars:
   <br>:heavy_check_mark: Conception
   <br>:heavy_check_mark: Integration
